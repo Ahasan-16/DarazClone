@@ -73,4 +73,21 @@ a{
     font-size: 30px;
     color:white;
 }
+.heroimage
+{
+    width: 1280px;
+    height:350px;
+    background-image: url("/image/hero.webp");
+    background-size: cover;
+    margin-left: 100px;
+}
+
+.heroimage2{
+    width:1280px;
+    height:140px;
+    background-image: url("/image/hero2.webp");
+    background-size: cover;
+    margin-top: 25px;
+    margin-left: 100px;
+}
 
