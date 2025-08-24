@@ -200,3 +200,30 @@ a{
     background-size: cover;
 }
 
+.newload1{
+    width:450px;
+    height:38px;
+    border:1px solid #1A9C8b;
+    color:#1A9C8b;
+    text-align: center;
+    padding-top: 19px;
+    font-size: 1rem;
+    text-transform: uppercase;
+
+}
+ul li a{
+    text-decoration: none;
+    font-size: 12px;
+
+}
+footer{
+    display: flex;
+    margin-left: 55px;
+    gap:50px;
+    margin-top: 20px;
+    color:#551A8B
+}
+.fotsec1 ul{
+    padding: 0px;
+}
+
