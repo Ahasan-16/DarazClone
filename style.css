@@ -225,5 +225,45 @@ footer{
 }
 .fotsec1 ul{
     padding: 0px;
-}
 
+}
+.fotsec2{
+    height:120px;
+    width:600px;
+    display: flex;
+}
+.dlogo{
+    height:42px;
+    width:42px;
+    background-image: url("image/dlogo.png");
+    background-size: cover;
+}
+.first{
+    display: flex;
+}
+.second{
+    height: 95px;
+    width: 290px;
+    display:flex;
+
+    flex-wrap: wrap;
+    gap:10px;
+}
+.logo1{
+     height:42px;
+    width:126px;
+    background-image: url("image/logo1.png");
+    background-size: cover;
+}
+.logo2{
+     height:42px;
+    width:126px;
+    background-image: url("image/logo2.png");
+    background-size: cover;
+}
+.logo3{
+     height:42px;
+    width:126px;
+    background-image: url("image/logo3.png");
+    background-size: cover;
+}
