@@ -216,7 +216,7 @@ ul li a{
     font-size: 12px;
 
 }
-footer{
+.footer1{
     display: flex;
     margin-left: 55px;
     gap:50px;
@@ -268,3 +268,75 @@ footer{
     background-image: url("image/logo3.png");
     background-size: cover;
 }
+
+.footer2{
+    height:160px;
+    display:flex;
+    margin-top: 10px;
+    background-color: white;
+    padding-left: 50px;
+
+}
+.paylogo{
+    width:330px;
+    height:64px;
+    display:flex;
+    flex-wrap: wrap;
+    gap:10px;
+    
+}
+.paylogo1{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo1.png");
+    background-size: cover;
+}
+.paylogo2{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo2.png");
+    background-size: cover;
+}
+.paylogo3{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo3.png");
+    background-size: cover;
+}
+.paylogo4{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo4.png");
+    background-size: cover;
+}
+.paylogo5{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo5.png");
+    background-size: cover;
+}
+.paylogo6{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo6.png");
+    background-size: cover;
+}
+.paylogo7{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo7.png");
+    background-size: cover;
+}
+.paylogo8{
+    width:48px;
+    height:28px;
+    background-image: url("image/paylogo8.png");
+    background-size: cover;
+}
+.verifylogo{
+    width:73px;
+    height:40px;
+    background-image: url("image/verifylogo.png");
+    background-size: cover;
+}
+
